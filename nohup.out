@@ -1,0 +1,19 @@
+Usage: mlflow server [OPTIONS]
+Try 'mlflow server --help' for help.
+
+Error: no such option: --host:0.0.0.0
+Usage: mlflow server [OPTIONS]
+Try 'mlflow server --help' for help.
+
+Error: no such option: --host:0.0.0.0
+Usage: mlflow server [OPTIONS]
+Try 'mlflow server --help' for help.
+
+Error: no such option: --host:0.0.0.0
+[2021-02-23 19:02:30 -0800] [91191] [INFO] Starting gunicorn 20.0.4
+[2021-02-23 19:02:30 -0800] [91191] [INFO] Listening at: http://0.0.0.0:5000 (91191)
+[2021-02-23 19:02:30 -0800] [91191] [INFO] Using worker: sync
+[2021-02-23 19:02:30 -0800] [91194] [INFO] Booting worker with pid: 91194
+[2021-02-23 19:02:30 -0800] [91195] [INFO] Booting worker with pid: 91195
+[2021-02-23 19:02:31 -0800] [91196] [INFO] Booting worker with pid: 91196
+[2021-02-23 19:02:31 -0800] [91197] [INFO] Booting worker with pid: 91197
