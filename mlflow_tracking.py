@@ -4,7 +4,7 @@ from random import random, randint
 import mlflow
 from mlflow import log_metric, log_param, log_artifacts
 
-tracking_uri='file:///root/mlflow'
+tracking_uri='file:///tmp/mlflow'
 mlflow.set_tracking_uri(tracking_uri)
 
 experiment_name = 'hello_world'

@@ -22,7 +22,7 @@ warnings.filterwarnings("ignore")
 
 # # Setup Experiment Tracker
 
-tracking_uri='file:///root/mlflow'
+tracking_uri='file:///tmp/mlflow'
 mlflow.set_tracking_uri(tracking_uri)
 
 experiment_name = 'wine'
